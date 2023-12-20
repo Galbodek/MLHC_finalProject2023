@@ -1,5 +1,5 @@
 # MLHC Final Project 2023
-This repository contains the final project of the MLHC-2023 course completed by Gal Bodek and Keren Danan.
+This repository contains the final project of the “Machine Learning for Healthcare” course completed by Gal Bodek and Keren Danan.
 In this project, we aimed to predict mortality and classify sepsis patients enrolled in the PROVIDE clinical trial using both clinical data and 
 Olink proteomics data. 
 
